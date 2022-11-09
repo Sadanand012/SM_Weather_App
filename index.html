@@ -1,0 +1,44 @@
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Weather App</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body onload="getLocation()">
+    <div id="section_1">
+        <input type="text" id="city" placeholder="Enter City Name">
+        <button onclick="searCh()">Search</button>
+    </div>
+    <div id="section_2">
+        <div id="left">
+            <div id="main">
+                
+            </div>
+        </div>
+        <div id="right">
+            <div id="location">
+                <div class="mapouter">
+                    <div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas"
+                             frameborder="0"
+                            scrolling="no" marginheight="0" marginwidth="0"></iframe><a
+                            href="https://putlocker-is.org">putlocker</a><br>
+                    </div>
+                </div>
+            </div>
+        </div>
+        
+    </div>
+    <div id="day">
+        <div id="day_1"></div>
+        <div id="day_2"></div>
+        <div id="day_3"></div>
+        <div id="day_4"></div>
+        <div id="day_5"></div>
+        <div id="day_6"></div>
+        <div id="day_7"></div>
+    </div>
+</body>
+</html>
+<script src="index.js"></script>

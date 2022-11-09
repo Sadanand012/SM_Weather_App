@@ -1,0 +1,1 @@
+//api.openweathermap.org/data/2.5/forecast?q=${q}&appid=e049ceb24cb7fa38c97e41fbbab8bb2a&units=metric
