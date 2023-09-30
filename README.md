@@ -2,7 +2,7 @@
 
 > [Weather App](https://smweatherapp.netlify.app/) SM_Weather_App is my free time working on site. This site takes previous data of your searched location and also the search area on the map. It helps you read the next 6 days' weather data.
 
-> Creating a website during the unit assignment at [Masai School](https://masaischool.com/). Completed the project in a day. Implemented the maximum user centric functionality.
+> Creating a website during the unit assignment. Completed the project in a day. Implemented the maximum user-centric functionality.
 
 ## Overview of our work 👉 [Click here](https://smweatherapp.netlify.app/)
 
@@ -23,14 +23,14 @@
 
 # Lessons Learned
 
-- Gain excessive knowledge on application of HTML, CSS, JS & json.
+- Gain excessive knowledge of applications of HTML, CSS, JS, and JSON.
 - With the help of the API data design front.
 - Enjoyed the process of learning and creating front.
 
 # Overview of our work
 
 ## **Home Page**
-*This is Landing page of our website*
+*This is the Landing page of our website*
 ![Screenshot](https://i.postimg.cc/3RspTwDL/smweatherapp.png)
 
 
@@ -38,4 +38,3 @@
 
 #### Sadanand Mare
 >Github:[Sadanand012](https://github.com/Sadanand012)
-Worked on Home page, Navbar, Footer
